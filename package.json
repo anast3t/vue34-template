@@ -6,7 +6,8 @@
 		"dev": "vue-cli-service serve",
 		"serve": "yarn build && serve -p 8080 dist",
 		"build": "vue-cli-service build",
-		"lint": "vue-cli-service lint"
+		"lint": "vue-cli-service lint",
+		"docker": "docker-compose up -d -f frontstack.yaml"
 	},
 	"dependencies": {
 		"@mdi/font": "^7.4.47",
