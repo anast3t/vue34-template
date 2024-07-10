@@ -1,10 +1,10 @@
 # My Vue.js 3.4 template
 
 * Vue.js 3.4
-* Vuetify
+* Vuetify 3.6
 * SASS
-* VueRouter
-* Typescript
+* VueRouter 4
+* Typescript 5.5
 * Axios
 * PWA-compliant
 * ESLint
