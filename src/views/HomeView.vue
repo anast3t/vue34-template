@@ -1,7 +1,5 @@
 <script lang="ts" setup>
-
-import HelloWorld from '@/components/HelloWorld.vue'; // @ is an alias to /src
-
+import HelloWorld from "@/components/HelloWorld.vue";
 </script>
 
 <template>
