@@ -1,7 +1,7 @@
 # My Vue.js 3.4 template
 
 * Vue.js 3.4
-* Vuetify 3.6
+* Vuetify 3.6 + Toasts
 * SASS
 * VueRouter 4
 * Typescript 5.5
