@@ -1,4 +1,4 @@
-# My Vue.js 3.4 template
+# Vue.js 3.4 template
 
 * Vue.js 3.4
 * Vuetify 3.6 + Toasts
